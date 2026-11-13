@@ -4,7 +4,7 @@
 의료IT학과에서 의료 데이터를 공부했고, 원티드 백엔드 양성과정에서 세 개의 서비스를 팀으로 개발했습니다.
 
 - Blog: https://velog.io/@baek1885/posts
-- Portfolio: https://drive.google.com/file/d/1Xpc3tJVdvr20DcLkLpkRDtwzHlNp5Aw6/view?usp=sharing
+- Portfolio: https://drive.google.com/file/d/1beg5UVxSOyVY9CTpkJFRNgDql1NVLHbu/view?usp=sharing
 - Email: xbox18855@gmail.com
 
 ## Tech Stack
